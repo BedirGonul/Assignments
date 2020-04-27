@@ -21,26 +21,14 @@ def cardnum(digits):
         return False
 
 
-# In[29]:
+# cardnum(3232575713452346)
+# False
 
+#cardnum(2143214214)
+#False
 
-cardnum(3232575713452346)
+#cardnum(8926309448473529)
+#True
 
-
-# In[30]:
-
-
-cardnum(2143214214)
-
-
-# In[26]:
-
-
-cardnum(8926309448473529)
-
-
-# In[25]:
-
-
-cardnum(4111111111111111)
-
+#cardnum(4111111111111111)
+#True

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-		awesome.min.css">
+			
+             </style>
+                 </head>
+                     <body>
+                        	<button class="btn"><i class="fa fa-home"></i> Home</button>
+                            <button class="btn"><i class="fa fa-bars"></i> Menu</button>
+                     </body>
+             <body>
+                <div class="Account">
+                  <h1>Account Settings<h1>
+                  <h2>Please change anything that is incorrect<h2>
+                  
+                  <h3>Registered Name<h3>
+                  <input type="text" class="input" value="Bedirhan Gonul">
+                  <button class="bttn">Change</button>
+                  
+                  <h3>Email<h3>
+                  <input type="text" class="input" value="name@gmail.com">
+                  <button class="bttn">Change</button>
+                  
+                  <h3>Phone Number<h3>
+                  <input type="text" class="input" value="917-432-1323">
+                  <button class="bttn">Change</button>
+                  
+                  <h3>Registered Password<h3>
+                  <input type="password" class="input" value="html_is_hard">
+                  <button class="bttn">
+                  Change</button>
+                </div>
+             </body>                 
+         </html>
